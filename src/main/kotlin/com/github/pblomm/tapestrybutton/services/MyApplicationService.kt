@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.pblomm.tapestrybutton.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.pblomm.tapestrybutton.MyBundle
 
 class MyApplicationService {
 
